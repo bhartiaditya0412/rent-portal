@@ -1,4 +1,4 @@
-# Hackfest_IITISM
+# renting_portal_IITISM
 
 PROBLEM STATEMENT:
 The problem statement is that individuals who live in urban areas or have limited storage space face difficulties in finding suitable options for renting or borrowing items for short periods of time. Traditional rental services or borrowing from friends and family may not always be available or convenient. This subset of people requires a platform that specifically addresses their needs for short-term access to items, which is simple, affordable, and convenient.
